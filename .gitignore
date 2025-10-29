@@ -1,0 +1,6 @@
+# Ignore virtual environments and cache files
+jac-env/
+.venv/
+venv/
+__pycache__/
+*.pyc
